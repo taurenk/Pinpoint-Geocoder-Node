@@ -1,0 +1,8 @@
+{
+    "postsgresql": {
+      "host": "",
+      "user":  "",
+      "password": "",
+      "database": ""
+    }
+  }
