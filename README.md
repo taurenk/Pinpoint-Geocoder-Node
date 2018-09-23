@@ -1,5 +1,5 @@
 # Pinpoint US Geocoder Node
-A very simple geocoder built with NodeJS, Postgresql + US Census Data.
+A very simple geocoder built with NodeJS, Postgresql + US Census Data. This code is based off a [previous geocoding project](https://github.com/taurenk/PinPoint-Geocoder-Python) that im hoping to take a bit further.
 
 ## 
 
